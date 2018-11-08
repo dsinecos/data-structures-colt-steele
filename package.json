@@ -1,0 +1,13 @@
+{
+  "name": "data-structures-colt-steele",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {
+    "ramda": "^0.25.0"
+  }
+}
