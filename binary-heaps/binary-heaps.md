@@ -5,6 +5,7 @@
 - [Common methods](#common-methods)
     - [`insert`](#insert)
     - [`remove` or `extractMax`](#remove-or-extractmax)
+- [Big O of Binary Heaps](#big-o-of-binary-heaps)
 
 ## Binary Heaps
 
@@ -57,6 +58,13 @@
     - Cover for the edge case where a node does not have a valid left or right child node as it falls outside the bounds of the length of the array
 - Cover for the edge case when there is only 1 element left inside the Binary Heap
 
+## Big O of Binary Heaps
+
+| Operation | Time Complexity |
+| -- | -- |
+| Insertion | O(logn) |
+| Removal | O(logn) |
+| Search | O(n) |
 
 
 
